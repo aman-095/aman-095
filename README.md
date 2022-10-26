@@ -21,9 +21,9 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40"/> </a></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-095&show_icons=true&locale=en&layout=compact" alt="aman-095" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-095&show_icons=true&locale=en&layout=compact&theme=dark" alt="aman-095" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-095&" alt="aman-095" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-095&theme=dark" alt="aman-095" /></p>
 
 
 
