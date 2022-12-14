@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-095&label=Profile%20views&color=0e75b6&style=flat" alt="aman-095" /> </p>
 
-- 🔭 **I am currently working on a Research Project at IIT Patna under the supervision of Dr. Sriparna Saha called "Towards Query Semantic Knowledge Guided Multi-Span Medical Question Answering" which intends to enhance the medical context summarizer with multi-spanned answers provided a question.**
+- 🔭 **I have worked on a Research Project at IIT Patna under the supervision of Prof. Sriparna Saha called "Towards Query Semantic Knowledge Guided Multi-Span Medical Question Answering" which intends to enhance the medical context summarizer with multi-spanned answers provided a question. Currently I am working on enhancing the Contextual Learning for
+Dialogue-act Classification in Counselling Conversations under the supervision of Prof. Sriparna Saha, IIT Patna.**
 
 - 👨‍💻 All of my projects are available at [https://aman-095.github.io/](https://aman-095.github.io/)
 
