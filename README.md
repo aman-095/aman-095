@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">I am a Pre-Final Year student at Indian Institute of Technology, Jodhpur. I am particularly interested in Machine Learning/Data Science/Natural Language Processing applications for solving real world problems.</h3>
+<h3 align="center">I am a Pre-Final Year student at Indian Institute of Technology, Jodhpur. Applications of machine learning, natural language processing, data science, and computer vision that address issues in the real world are of interest to me.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-095&label=Profile%20views&color=0e75b6&style=flat" alt="aman-095" /> </p>
 
