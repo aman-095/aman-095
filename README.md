@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">I am a Pre-Final Year student at Indian Institute of Technology, Jodhpur. Applications of machine learning, natural language processing, data science, and computer vision that address issues in the real world are of interest to me.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-095&label=Profile%20views&color=0e75b6&style=flat" alt="aman-095" /> </p>
-
 - 🔭 **I have worked on a Research Project at IIT Patna under the supervision of Prof. Sriparna Saha called "Towards Query Semantic Knowledge Guided Multi-Span Medical Question Answering" which intends to enhance the medical context summarizer with multi-spanned answers provided a question. Currently I am working on the development of a loss function and evaluation metrics for NLP-related tasks superior to the existing cross-entropy loss under the supervision of Prof. Sriparna Saha, IIT Patna.**
 
 - 👨‍💻 All of my projects are available at [https://aman-095.github.io/](https://aman-095.github.io/)
@@ -17,7 +15,7 @@
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40"/> </a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-095&show_icons=true&locale=en&layout=compact&theme=dark" alt="aman-095" /></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-095&label=Profile%20views&color=0e75b6&style=flat" alt="aman-095" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-095&theme=dark" alt="aman-095" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
