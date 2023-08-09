@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">I am a Final Year undergraduate at Indian Institute of Technology, Jodhpur. Applications of machine learning, natural language processing, data science, and computer vision that address issues in the real world are of interest to me.</h3>
 
-- 🔭 **I have worked on a Research Project at IIT Patna under the supervision of Prof. Sriparna Saha called "Towards Query Semantic Knowledge Guided Multi-Span Medical Question Answering" which intends to enhance the medical context summarizer with multi-spanned answers provided a question.**
+- 🔭 **Undergraduate Research Intern, IIT Patna**
+
 
 - 👨‍💻 All of my projects are available at [https://aman-095.github.io/](https://aman-095.github.io/)
 
