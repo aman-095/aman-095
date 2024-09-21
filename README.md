@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">I am a Final Year undergraduate at Indian Institute of Technology, Jodhpur. Applications of machine learning, natural language processing, data science, and computer vision that address issues in the real world are of interest to me.</h3>
+<h3 align="center">I am an undergraduate from the Indian Institute of Technology, Jodhpur. Applications of machine learning, natural language processing, data science, and computer vision that address issues in the real world are of interest to me.</h3>
 
 - 🔭 **Undergraduate Research Intern, IIT Patna**
 
